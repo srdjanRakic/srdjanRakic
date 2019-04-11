@@ -13,9 +13,9 @@ const IndexPage = () => (
           Hi, I'm <span className="bold">Srdjan Rakic</span>
         </h5>
 
-        <h3 className="bold">
-          Full stack developer with more than 3 years experience.
-        </h3>
+        <h4 className="bold">
+          Full stack developer and Lead of Frontend Engineering at InPlayer
+        </h4>
 
         <ExperienceSection />
         <ProjectsSection />
