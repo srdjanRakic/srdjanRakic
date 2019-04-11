@@ -20,5 +20,6 @@ module.exports = {
     description: "Personal Portfolio",
     keywords: "full stack developer, portfolio, personal website",
     url: "https://srdjanrakic.github.io/"
-  }
+  },
+  pathPrefix: 'https://github.com/srdjanRakic/srdjanrakic-new'
 };
