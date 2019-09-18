@@ -1,13 +1,13 @@
 import React, {Component} from 'react'
 import './style.scss';
 
-const Section = () => (
+const Section = ({ title, children }) => (
   <div className="section">
     <h6 className="bold">
-      {this.props.title}
+      {title}
     </h6>
     <div className="section-units">
-      {this.props.children}
+      {children}
     </div>
   </div>
 )

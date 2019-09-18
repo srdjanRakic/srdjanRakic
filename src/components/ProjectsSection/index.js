@@ -1,11 +1,13 @@
 import React from 'react'
+
+// components
 import Section from '../Section'
 import ExperienceUnit from '../ExperienceUnit'
+
+// logo
 import inplayerLogo from '../../assets/images/experience/inplayer-logo.png'
 
-class ProjectsSection extends React.Component {
-  render() {
-    return (
+const ProjectsSection = () =>  (
       <Section title="Creator/Maintainer of:">
         <div className="row">
           <ExperienceUnit
@@ -27,7 +29,5 @@ class ProjectsSection extends React.Component {
         </div>
       </Section>
     )
-  }
-}
 
-export default ProjectsSection
+export default ProjectsSection;
