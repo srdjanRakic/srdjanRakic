@@ -12,15 +12,12 @@ const IndexPage = () => (
         <h5>
           Hi, I'm <span className="bold">Srdjan Rakic</span>
         </h5>
-
         <h4 className="bold">
           Full stack developer and Lead of Frontend Engineering at InPlayer
         </h4>
-
         <ExperienceSection />
         <ProjectsSection />
       </div>
-
       <div className="aside">
         <div className="top">
           <About />

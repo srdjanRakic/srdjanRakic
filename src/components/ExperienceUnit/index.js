@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React from 'react'
 import './style.scss'
 
 const ExperienceUnit = ({ link, title, timeperiod, subtitle, logo, colour }) => (
