@@ -6,8 +6,8 @@ import ExperienceUnit from '../ExperienceUnit'
 
 // logo
 import inplayerLogo from '../../assets/images/experience/inplayer-logo.png'
-import reactTsLogo from '../../assets/images/react-typescript.png'
-import reactHooksLogo from '../../assets/images/react-hooks.png'
+import reactTsLogo from '../../assets/images/projects/react-typescript.png'
+import reactHooksLogo from '../../assets/images/projects/react-hooks.png'
 
 const ProjectsSection = () =>  (
       <Section title="Creator/Maintainer of:">
