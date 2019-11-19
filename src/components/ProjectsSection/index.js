@@ -6,6 +6,7 @@ import ExperienceUnit from '../ExperienceUnit'
 
 // logo
 import inplayerLogo from '../../assets/images/experience/inplayer-logo.png'
+import reactTsLogo from '../../assets/images/react-typescript.png'
 
 const ProjectsSection = () =>  (
       <Section title="Creator/Maintainer of:">
@@ -15,7 +16,6 @@ const ProjectsSection = () =>  (
             colour="#FFFFFF"
             title="InPlayer JS SDK"
             link="https://github.com/inplayer-org/inplayer.js"
-            timeperiod="2018 - present"
             subtitle="InPlayer's JS API client wrapper."
           />
           <ExperienceUnit
@@ -23,8 +23,14 @@ const ProjectsSection = () =>  (
             colour="#FFFFFF"
             title="InPlayer React UI Components"
             link="https://github.com/inplayer-org/inplayer-ui"
-            timeperiod="2018 - present"
             subtitle="Modern React UI library. Code less, do more."
+          />
+          <ExperienceUnit
+            logo={reactTsLogo}
+            colour="#FFFFFF"
+            title="React TypeScript Starter"
+            link="https://github.com/srdjanRakic/react-typescript-starter"
+            subtitle="React TypeScript Starter Kit."
           />
         </div>
       </Section>
