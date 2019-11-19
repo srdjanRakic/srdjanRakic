@@ -29,7 +29,7 @@ const Links = () => (
         </li>
       </ul>
       <div className="small">
-        Built with ❤️ using <a href="https://www.gatsbyjs.org/" target="_blank">
+        Built with <a href="https://www.gatsbyjs.org/" target="_blank">
           GatsbyJS
         </a>
       </div>
