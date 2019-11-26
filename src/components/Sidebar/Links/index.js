@@ -23,7 +23,7 @@ const Links = () => (
           </a>
         </li>
         <li className="icon">
-          <a href="mailto:hello@praagya.com" target="_blank">
+          <a href="mailto:srgjan.rakic@gmail.com" target="_blank">
             <i className="fa fa-envelope" />
           </a>
         </li>
