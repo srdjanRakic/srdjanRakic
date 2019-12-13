@@ -17,21 +17,21 @@ const ProjectsSection = () =>  (
             colour="#FFFFFF"
             title="InPlayer JS SDK"
             link="https://github.com/inplayer-org/inplayer.js"
-            description="InPlayer's JS API client wrapper."
+            description="InPlayer's JS API client wrapper"
           />
           <ExperienceUnit
             logo={inplayerLogo}
             colour="#FFFFFF"
             title="InPlayer React UI Components"
             link="https://github.com/inplayer-org/inplayer-ui"
-            description="Modern React UI library. Code less, do more."
+            description="Modern React UI library. Code less, do more"
           />
           <ExperienceUnit
             logo={reactTsLogo}
             colour="#FFFFFF"
             title="React TypeScript Starter"
             link="https://github.com/srdjanRakic/react-typescript-starter"
-            description="React TypeScript Starter Kit."
+            description="React TypeScript Starter Kit"
           />
           <ExperienceUnit
             logo={reactHooksLogo}
