@@ -2,7 +2,7 @@ import React from 'react'
 
 // components
 import Section from '../Section'
-import ExperienceUnit from '../Shuffle'
+import Shuffle from '../Shuffle'
 
 // logo
 import inplayerLogo from '../../assets/images/experience/inplayer-logo.png'
@@ -12,28 +12,28 @@ import reactHooksLogo from '../../assets/images/projects/react-hooks.png'
 const ProjectsSection = () =>  (
       <Section title="Creator/Maintainer of:">
         <div className="row">
-          <ExperienceUnit
+          <Shuffle
             logo={inplayerLogo}
             colour="#FFFFFF"
             title="InPlayer JS SDK"
             link="https://github.com/inplayer-org/inplayer.js"
             description="InPlayer's JS API client wrapper"
           />
-          <ExperienceUnit
+          <Shuffle
             logo={inplayerLogo}
             colour="#FFFFFF"
             title="InPlayer React UI Components"
             link="https://github.com/inplayer-org/inplayer-ui"
             description="Modern React UI library. Code less, do more"
           />
-          <ExperienceUnit
+          <Shuffle
             logo={reactTsLogo}
             colour="#FFFFFF"
             title="React TypeScript Starter"
             link="https://github.com/srdjanRakic/react-typescript-starter"
             description="React TypeScript Starter Kit"
           />
-          <ExperienceUnit
+          <Shuffle
             logo={reactHooksLogo}
             colour="#FFFFFF"
             title="The Hook Cook Book"
