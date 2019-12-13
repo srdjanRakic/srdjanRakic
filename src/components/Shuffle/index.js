@@ -1,7 +1,7 @@
 import React from 'react'
 import './style.scss'
 
-const ExperienceUnit = ({ link, title, timeperiod, subtitle, logo, colour }) => (
+const ExperienceUnit = ({ link, title, timeperiod, description, logo, colour }) => (
   <div className="experience-unit col-xs-12 col-sm-6 col-md-4">
     <a href={link} target="_blank">
       <div
@@ -18,8 +18,8 @@ const ExperienceUnit = ({ link, title, timeperiod, subtitle, logo, colour }) => 
     <div className="time-period">
       {timeperiod}
     </div>
-    <div className="subtitle">
-      {subtitle}
+    <div className="description">
+      {description}
     </div>
   </div>
 );

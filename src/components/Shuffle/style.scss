@@ -18,7 +18,7 @@
       box-shadow: 0px 5px 18px 0px rgba(0, 0, 0, 0.3);
     }
   }
-  
+
   .title {
     padding: 8px 0px;
     font-size: 1.8rem;
@@ -30,7 +30,7 @@
     padding-bottom: 12px;
   }
 
-  .subtitle {
+  .description {
     color: $grey-color;
     font-size: 1.4rem;
   }
@@ -43,7 +43,7 @@
 
   @include media('<=medium', '>xsmall') {
     padding-bottom: 15px;
-    
+
     .image {
       height: 140px;
     }
