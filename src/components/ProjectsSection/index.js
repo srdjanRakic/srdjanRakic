@@ -28,14 +28,14 @@ const ProjectsSection = () =>  (
           />
           <Shuffle
             logo={reactTsLogo}
-            colour="#FFFFFF"
+            colour="#293953"
             title="React TypeScript Starter"
             link="https://github.com/srdjanRakic/react-typescript-starter"
             description="React TypeScript Starter Kit"
           />
           <Shuffle
             logo={reactHooksLogo}
-            colour="#FFFFFF"
+            colour="#222222"
             title="The Hook Cook Book"
             link="https://github.com/srdjanRakic/hook-cook-book"
             description="A collection of simple solution to complex problems using React Hooks"

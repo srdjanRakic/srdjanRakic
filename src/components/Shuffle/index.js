@@ -2,7 +2,7 @@ import React from 'react'
 import './style.scss'
 
 const Shuffle = ({ link, title, timeperiod, description, logo, colour }) => (
-  <div className="experience-unit col-xs-12 col-sm-6 col-md-4">
+  <div className="shuffle col-xs-12 col-sm-6 col-md-4">
     <a href={link} target="_blank">
       <div
         className="image"
