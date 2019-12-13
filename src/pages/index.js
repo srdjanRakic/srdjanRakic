@@ -1,6 +1,7 @@
 import React from 'react'
 import ExperienceSection from '../components/ExperienceSection'
 import ProjectsSection from '../components/ProjectsSection'
+import ConferenceSection from '../components/ConferenceSection'
 import About from '../components/Sidebar/About'
 import Links from '../components/Sidebar/Links'
 
@@ -17,6 +18,7 @@ const IndexPage = () => (
         </h4>
         <ExperienceSection />
         <ProjectsSection />
+        <ConferenceSection />
       </div>
       <div className="aside">
         <div className="top">
