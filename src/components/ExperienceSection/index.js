@@ -2,7 +2,7 @@ import React from 'react'
 
 // components
 import Section from '../Section'
-import ExperienceUnit from '../ExperienceUnit'
+import ExperienceUnit from '../Shuffle'
 
 // logos
 import mcaLogo from '../../assets/images/experience/mca-logo.png'
@@ -11,7 +11,7 @@ import inscaleLogo from '../../assets/images/experience/inscale-logo.png'
 import inplayerLogo from "../../assets/images/experience/inplayer-logo.png";
 
 const ExperienceSection = () => (
-  <Section title="Experience">
+  <Section title="Experience:">
     <div className="row">
       <ExperienceUnit logo={mcaLogo} colour="#FFFFFF" title="MCA" link="https://www.mca.mk/" timeperiod="04.2016 - 06.2017" subtitle="Learnt the ins and outs of product development and
           built various features including a completely new product." />

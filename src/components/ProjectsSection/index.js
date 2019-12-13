@@ -2,7 +2,7 @@ import React from 'react'
 
 // components
 import Section from '../Section'
-import ExperienceUnit from '../ExperienceUnit'
+import ExperienceUnit from '../Shuffle'
 
 // logo
 import inplayerLogo from '../../assets/images/experience/inplayer-logo.png'
