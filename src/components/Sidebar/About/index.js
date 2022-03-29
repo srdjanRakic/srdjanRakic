@@ -5,7 +5,7 @@ const About = () => (
   <div className="about">
     <div className="image" />
     <div className="bio">
-      Lead Frontend Engineer at InPlayer.
+      Software Engineer at Lightspeed Commerce.
       Beer, whiskey, coffee snob.
       React/Redux/GraphQL enthusiast — Jr Developer for life.
     </div>
