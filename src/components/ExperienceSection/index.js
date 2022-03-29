@@ -9,6 +9,7 @@ import mcaLogo from '../../assets/images/experience/mca-logo.png'
 import seavusLogo from '../../assets/images/experience/seavus-logo.png'
 import inscaleLogo from '../../assets/images/experience/inscale-logo.png'
 import inplayerLogo from "../../assets/images/experience/inplayer-logo.png";
+import lightspeedLogo from "../../assets/images/experience/lightspeed-logo.png";
 
 const ExperienceSection = () => (
   <Section title="Experience:">
@@ -17,7 +18,8 @@ const ExperienceSection = () => (
           built various features including a completely new product" />
       <Shuffle logo={seavusLogo} colour="#FFFFFF" title="Seavus" link="https://seavus.com/" timeperiod="06.2017 - 12.2018" description="Worked as a Product Engineer on the front-end on a Sports-Betting platform that provides a highly customizable front-end for each bookmaker, giving you all the tools you need for risk management" />
       <Shuffle logo={inscaleLogo} colour="#FFFFFF" title="InScale" link="https://www.inscale.net/" timeperiod="12.2017 - 08.2018" description="Worked as a Product Engineer on a scandinavian package holidaymaker" />
-      <Shuffle logo={inplayerLogo} colour="#FFFFFF" title="InPlayer" link="https://inplayer.com/" timeperiod="08.2018 - present" description="Working as e Product Engineer on a next generation video and digital asset monetization platform" />
+      <Shuffle logo={inplayerLogo} colour="#FFFFFF" title="InPlayer" link="https://inplayer.com/" timeperiod="08.2018 - 02.2021" description="Working as e Product Engineer on a next generation video and digital asset monetization platform" />
+      <Shuffle logo={lightspeedLogo} colour="#FFFFFF" title="Lightspeed Commerce" link="https://www.lightspeedhq.nl/" timeperiod="02.2021 - present" description="Working as e Product Engineer on a complete entrepreneurial platform for hospitality, retail and e-Commerce worldwide." />
     </div>
   </Section>
 );
