@@ -14,7 +14,7 @@ const IndexPage = () => (
         Hi, I'm <span className="bold">Srdjan Rakic</span>
       </h5>
       <h4 className="bold">
-        Software Engineer at Lightspeed Commerce
+        Software Engineer at Silverflow
       </h4>
       <ExperienceSection />
       <ProjectsSection />

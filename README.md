@@ -1,7 +1,9 @@
 # Personal Portfolio
+
 Personal minimalistic portfolio built with GatsbyJS.
 
 ## Features
+
 - Designed as a minimalistic portfolio website
 - A minimalistic grid using `flexboxgrid`
 - Styled using `SCSS`
@@ -11,6 +13,7 @@ Personal minimalistic portfolio built with GatsbyJS.
 - Prerendered Open Graph tags for rich sharing
 
 ## Customization
+
 - Modify the experiences section by changing `ExperienceSection/index.js`
 - Add your own projects by modifying `ProjectsSection/index.js`
 - Configure site meta data and add your GA tracking ID in `gatsby-config.js`
