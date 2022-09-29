@@ -13,20 +13,6 @@ const ProjectsSection = () =>  (
       <Section title="Creator/Maintainer of:">
         <div className="row">
           <Shuffle
-            logo={inplayerLogo}
-            colour="#FFFFFF"
-            title="InPlayer JS SDK"
-            link="https://github.com/inplayer-org/inplayer.js"
-            description="InPlayer's JS API client wrapper"
-          />
-          <Shuffle
-            logo={inplayerLogo}
-            colour="#FFFFFF"
-            title="InPlayer React UI Components"
-            link="https://github.com/inplayer-org/inplayer-ui"
-            description="Modern React UI library. Code less, do more"
-          />
-          <Shuffle
             logo={reactTsLogo}
             colour="#293953"
             title="React TypeScript Starter"
