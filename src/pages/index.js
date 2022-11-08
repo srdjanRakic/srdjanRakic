@@ -11,7 +11,7 @@ const IndexPage = () => (
   <>
     <div className="main">
       <h5>
-        Hi, I'm <span className="bold">Srdjan Rakic</span>
+        Hi, I'm <span className="bold">Srgjan Rakikj</span>
       </h5>
       <h4 className="bold">
         Software Engineer at Silverflow

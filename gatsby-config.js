@@ -11,7 +11,7 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: "Srdjan Rakic",
+    title: "Srgjan Rakikj",
     description: "Personal Portfolio",
     keywords: "full stack developer, portfolio, personal website",
     url: "https://srdjanrakic.github.io/"
