@@ -18,7 +18,7 @@ const Links = () => (
           </a>
         </li>
         <li className="icon">
-        <a href="https://www.linkedin.com/in/srdjan-rakic-7784b5113/" target="_blank">
+          <a href="https://www.linkedin.com/in/srgjan-rakikj-7784b5113/" target="_blank">
             <i className="fa fa-linkedin" />
           </a>
         </li>
