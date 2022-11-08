@@ -15,7 +15,7 @@ import silverflowLogo from "../../assets/images/experience/silverflow-logo.svg";
 const ExperienceSection = () => (
   <Section title="Experience:">
     <div className="row">
-      <Shuffle logo={mcaLogo} colour="#FFFFFF" title="MCA" link="https://www.mca.mk/" timeperiod="Feb 2016 - June 2017" description="Learnt the ins and outs of product development and
+      <Shuffle logo={mcaLogo} colour="#FFFFFF" title="MCA" link="https://www.mca.mk/" timeperiod="Feb 2016 - Jun 2017" description="Learnt the ins and outs of product development and
           built various features including a completely new product" />
       <Shuffle logo={seavusLogo} colour="#FFFFFF" title="Seavus" link="https://seavus.com/" timeperiod="Jun 2017 - Dec 2018" description="Worked as a Product Engineer on the front-end on a Sports-Betting platform that provides a highly customizable front-end for each bookmaker, giving you all the tools you need for risk management" />
       <Shuffle logo={inscaleLogo} colour="#FFFFFF" title="InScale" link="https://www.inscale.net/" timeperiod="Dec 2017 - Aug 2018" description="Worked as a Product Engineer on a scandinavian package holidaymaker" />
